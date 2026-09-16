@@ -3,7 +3,7 @@
 ## Project
 
 title: HaproSel
-description: A simple and lightweight web project built by Haproven for showcasing and exploring a practical web-based solution.
+description: A lightweight web application built by Haproven to provide a simple and practical web-based solution with an easy-to-use interface.
 category: Web Application
 status: Active
 image:
@@ -12,11 +12,10 @@ image:
 
 live:
 demo:
-documentation:
+documentation: https://github.com/haproven/haprosel
 
 ## Discover
 
-tags: haprosel, haproven, web-application, web-project, developer-tools, html, javascript
+tags: web-application, lightweight-web-app, practical-web-solution, frontend-application, interactive-web-app, html, css, javascript, web-development, open-source
 featured: false
 open_source: true
-
